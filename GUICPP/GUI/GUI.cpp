@@ -18,7 +18,7 @@ namespace GUICPP
 
     void GUI::HandleEvents(const sf::Event& e) {
         m_isShowingHandCursor = false;
-        const bool tmp = HandleEventsFromWidgetList(e);
+        const bool tmp = HandleEventsFromWidgetList(e) || HandleEventsFromGroupList(e);
         if (!m_isShowingHandCursor) {
             m_isShowingHandCursor = tmp;
         }
@@ -33,7 +33,7 @@ namespace GUICPP
     void GUI::Draw(sf::RenderStates& states) const
     {
         DrawFromWidgetList(states);
-        //drawFromGroupList(states);
+        DrawFromGroupList(states);
     }
 
     void GUI::AddWidgetToGui(const std::shared_ptr<Widget>& widget) {
@@ -50,6 +50,25 @@ namespace GUICPP
 
     void GUI::RemoveWidgetFromGui(const std::shared_ptr<Widget>& widget) {
         std::erase(m_widgetList, widget);
+    }
+
+    void GUI::AddGroupToGui(const std::shared_ptr<Group>& group)
+    {
+        m_groupList.push_back(group);
+
+        for (auto& widget : group->GetWidgetList()) {
+            widget->SetWindow(&m_window);
+            // if widget is a button, set the default font
+            const auto button = dynamic_cast<Button*>(widget.get());
+            if (button != nullptr) {
+                button->SetFont(*m_defaultFont);
+            }
+        }
+    }
+
+    void GUI::RemoveGroupFromGui(const std::shared_ptr<Group>& group)
+    {
+        std::erase(m_groupList, group);
     }
 
     sf::Font* GUI::GetFont() const
@@ -72,7 +91,7 @@ namespace GUICPP
                 }
                 if (!m_isShowingHandCursor) {
                     m_isShowingHandCursor = tmp;
-                    if ((tmp && m_isLockBy == nullptr) /*&& widget->isThisWidgetASlider()*/) {
+                    if ((tmp && m_isLockBy == nullptr)) {
                         m_isLockBy = widget;
                     } else if (!tmp && m_isLockBy == widget) {
                         m_isLockBy = nullptr;
@@ -92,14 +111,21 @@ namespace GUICPP
         }
     }
 
-    bool GUI::HandleEventsFromGroupList(sf::Event event)
+    bool GUI::HandleEventsFromGroupList(sf::Event e) const
     {
         for (auto& group : m_groupList) {
-            if (group->HandleEvents(event)) {
+            if (group->HandleEvents(e)) {
                 return true;
             }
         }
         return false;
+    }
+
+    void GUI::DrawFromGroupList(sf::RenderStates& states) const
+    {
+        for (auto& group : m_groupList) {
+            group->Draw(states);
+        }
     }
 
 }

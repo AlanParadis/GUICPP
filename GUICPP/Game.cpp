@@ -72,11 +72,13 @@ Game::Game(sf::RenderWindow& window): m_window(window), m_gui(window)
 
     m_gui.AddWidgetToGui(checkbox1);
 
+    const auto group = std::make_shared<GUICPP::Group>();
+
     const auto slider = std::make_shared<GUICPP::Slider>(sf::Vector2f(200, 450), sf::Vector2f(200, 25));
     slider->SetSound(buff0, buff1, buff2, buff2);
     slider->SetDelegate(sayValue);
 
-    m_gui.AddWidgetToGui(slider);
+    group->AddWidgetToGroup(slider);
 
     const auto slider1 = std::make_shared<GUICPP::BitmapSlider>(sf::Vector2f(600, 400), sf::Vector2f(404, 32));
     slider1->SetSound(buff0, buff1, buff2, buff2);
@@ -86,7 +88,9 @@ Game::Game(sf::RenderWindow& window): m_window(window), m_gui(window)
     slider1->SetOffset(25,25);
     slider1->SetSliderVertical(true);
 
-    m_gui.AddWidgetToGui(slider1);
+    group->AddWidgetToGroup(slider1);
+
+    m_gui.AddGroupToGui(group);
 }
 
 void Game::HandleEvents(sf::Event evt)

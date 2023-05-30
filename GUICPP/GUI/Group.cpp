@@ -136,7 +136,7 @@ const std::vector<std::shared_ptr<Widget>>& Group::GetWidgetList() const
     return m_widgetList;
 }
 
-int Group::GetWidgetListSize() const
+size_t Group::GetWidgetListSize() const
 {
     return m_widgetList.size();
 }
