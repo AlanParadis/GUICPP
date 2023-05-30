@@ -1,0 +1,17 @@
+<map id="GUICPP::Slider::HandleEvents" name="GUICPP::Slider::HandleEvents">
+<area shape="rect" id="Node000001" title="Handles the events for the slider." alt="" coords="5,110,204,136"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_c_p_p_1_1_slider.html#a5d5eb1cd12bf2e4781e8a7e805cdf3d0" title="Computes the value of the slider based on the cursor position." alt="" coords="501,34,705,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,107,172,61,210,37,251,19,289,10,328,5,407,5,481,14,542,27,541,32,480,19,407,10,329,10,290,15,253,24,212,42,175,65,121,111"/>
+<area shape="rect" id="Node000003" href="$class_g_u_i_c_p_p_1_1_slider.html#a46fb81f03dc03893fb8a2eb5cf72ca8a" title="Called when the slider is clicked." alt="" coords="270,34,435,60"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,107,251,70,279,62,280,67,252,75,144,112"/>
+<area shape="rect" id="Node000004" href="$class_g_u_i_c_p_p_1_1_slider.html#a147e4103993359a62d67c39568ed4bde" title="Called when the mouse stops hovering over the slider." alt="" coords="257,84,448,111"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="204,110,241,106,242,112,204,116"/>
+<area shape="rect" id="Node000005" href="$class_g_u_i_c_p_p_1_1_slider.html#a27e3c2ab658bf14b69c0d2085f9f67e6" title="Called when the mouse is held down on the slider." alt="" coords="252,135,453,162"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="204,131,237,134,237,139,204,136"/>
+<area shape="rect" id="Node000006" href="$class_g_u_i_c_p_p_1_1_slider.html#a4f7d43ca797450244c12c1860ec18555" title="Called when the slider is released." alt="" coords="257,186,448,212"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="144,134,252,171,280,179,279,184,251,176,142,139"/>
+<area shape="rect" id="Node000007" href="$class_g_u_i_c_p_p_1_1_slider.html#a097e1e23f64cc982f8947c99ca2f11ad" title="Called when the mouse starts hovering over the slider." alt="" coords="254,236,451,263"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="123,135,178,178,215,202,253,222,271,229,269,234,251,227,212,206,175,182,120,139"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="436,44,486,44,486,50,436,50"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="416,132,452,121,513,94,565,66,568,70,515,98,454,126,418,137"/>
+</map>

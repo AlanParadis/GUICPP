@@ -1,0 +1,11 @@
+<map id="GUICPP::BitmapCheckBox::HandleEvents" name="GUICPP::BitmapCheckBox::HandleEvents">
+<area shape="rect" id="Node000001" title="Handles the events." alt="" coords="5,105,185,148"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_c_p_p_1_1_bitmap_check_box.html#a6e40f918a41a07af9d10d65f78d34821" title="Handler for the click event." alt="" coords="233,5,412,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,103,232,58,246,51,248,56,234,62,139,107"/>
+<area shape="rect" id="Node000003" href="$class_g_u_i_c_p_p_1_1_bitmap_check_box.html#a4a570ce25e59f25ab81d6547806d934e" title="Handler for the end hover event." alt="" coords="233,72,412,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,111,217,106,218,111,186,116"/>
+<area shape="rect" id="Node000004" href="$class_g_u_i_c_p_p_1_1_bitmap_check_box.html#a1eb0d3d44deecda064eff1604b51da22" title="Handler for the release event." alt="" coords="233,139,412,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,137,218,142,217,147,185,142"/>
+<area shape="rect" id="Node000005" href="$class_g_u_i_c_p_p_1_1_bitmap_check_box.html#a73d87501338f8be61fb8040581ccc6ad" title="Handler for the start hover event." alt="" coords="233,205,412,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="139,146,234,191,248,197,246,202,232,196,137,151"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GUICPP::Slider::OnClick" name="GUICPP::Slider::OnClick">
+<area shape="rect" id="Node000001" title="Called when the slider is clicked." alt="" coords="5,5,171,32"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_c_p_p_1_1_slider.html#a5d5eb1cd12bf2e4781e8a7e805cdf3d0" title="Computes the value of the slider based on the cursor position." alt="" coords="219,5,423,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,16,204,16,204,21,171,21"/>
+</map>

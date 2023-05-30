@@ -1,0 +1,5 @@
+<map id="GUICPP::BitmapSlider::OnMouseHold" name="GUICPP::BitmapSlider::OnMouseHold">
+<area shape="rect" id="Node000001" title="Called when the mouse is held down on the bitmap slider." alt="" coords="206,5,358,48"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_c_p_p_1_1_bitmap_slider.html#a1f5e6e32ccea727b16a40e899e3abdcc" title="Handles the events for the bitmap slider." alt="" coords="5,5,158,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,29,158,29,158,24,191,24"/>
+</map>

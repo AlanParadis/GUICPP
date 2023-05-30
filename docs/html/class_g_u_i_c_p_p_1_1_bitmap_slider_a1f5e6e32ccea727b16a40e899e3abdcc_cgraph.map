@@ -1,0 +1,13 @@
+<map id="GUICPP::BitmapSlider::HandleEvents" name="GUICPP::BitmapSlider::HandleEvents">
+<area shape="rect" id="Node000001" title="Handles the events for the bitmap slider." alt="" coords="5,139,158,181"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_c_p_p_1_1_bitmap_slider.html#ae6f92cce46ffa1e624d44b64e9f439f4" title="Called when the bitmap slider is clicked." alt="" coords="206,5,358,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,136,149,97,204,58,213,53,215,58,207,62,152,102,108,140"/>
+<area shape="rect" id="Node000003" href="$class_g_u_i_c_p_p_1_1_bitmap_slider.html#a015c340e9ac1d6a10682f032dba85bf4" title="Called when the mouse stops hovering over the bitmap slider." alt="" coords="206,72,358,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,136,201,117,203,122,148,141"/>
+<area shape="rect" id="Node000004" href="$class_g_u_i_c_p_p_1_1_bitmap_slider.html#ab79ddd0e457f515683c4a4117a8a398f" title="Called when the mouse is held down on the bitmap slider." alt="" coords="206,139,358,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,157,191,157,191,163,158,163"/>
+<area shape="rect" id="Node000005" href="$class_g_u_i_c_p_p_1_1_bitmap_slider.html#a443ded00097a56fb0eb83724cb7ce773" title="Called when the bitmap slider is released." alt="" coords="206,205,358,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,179,203,198,201,203,147,184"/>
+<area shape="rect" id="Node000006" href="$class_g_u_i_c_p_p_1_1_bitmap_slider.html#a5deb771ef3d251b988acded2be3c42ce" title="Called when the mouse starts hovering over the bitmap slider." alt="" coords="206,272,358,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="108,180,152,218,207,258,215,262,213,267,204,262,149,223,104,184"/>
+</map>

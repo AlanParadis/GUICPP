@@ -1,0 +1,15 @@
+<map id="GUICPP::Widget" name="GUICPP::Widget">
+<area shape="rect" id="Node000001" title="Widget class is the base class for all GUI widgets." alt="" coords="216,5,336,32"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_c_p_p_1_1_button.html" title="Represents a GUI button with event handling." alt="" coords="46,80,162,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,41,135,82,133,77,232,36"/>
+<area shape="rect" id="Node000004" href="$class_g_u_i_c_p_p_1_1_check_box.html" title="This class provides CheckBox widget functionalities." alt="" coords="207,80,345,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="279,47,279,80,273,80,273,47"/>
+<area shape="rect" id="Node000006" href="$class_g_u_i_c_p_p_1_1_slider.html" title="Represents a slider widget in a GUI." alt="" coords="390,80,501,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="320,36,417,77,415,82,318,41"/>
+<area shape="rect" id="Node000003" href="$class_g_u_i_c_p_p_1_1_bitmap_button.html" title="This class provides button functionality with custom bitmaps." alt="" coords="5,155,163,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,122,90,155,85,154,94,121"/>
+<area shape="rect" id="Node000005" href="$class_g_u_i_c_p_p_1_1_bitmap_check_box.html" title="This class provides CheckBox widget functionalities with custom bitmaps." alt="" coords="186,155,366,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="279,122,279,154,273,154,273,122"/>
+<area shape="rect" id="Node000007" href="$class_g_u_i_c_p_p_1_1_bitmap_slider.html" title="Represents a bitmap slider widget in a GUI." alt="" coords="389,155,542,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="455,121,464,154,459,155,450,122"/>
+</map>

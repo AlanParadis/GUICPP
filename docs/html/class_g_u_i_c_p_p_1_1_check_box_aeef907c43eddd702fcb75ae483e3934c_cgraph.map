@@ -1,0 +1,13 @@
+<map id="GUICPP::CheckBox::HandleEvents" name="GUICPP::CheckBox::HandleEvents">
+<area shape="rect" id="Node000001" title="Handles the events." alt="" coords="5,73,192,116"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_c_p_p_1_1_check_box.html#a2ba7bad6891ff7242db8da8d31a16c37" title="Handler for the click event." alt="" coords="253,5,445,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,70,239,41,268,34,269,39,240,47,157,75"/>
+<area shape="rect" id="Node000003" href="$class_g_u_i_c_p_p_1_1_check_box.html#a2fbc87d114c0043e6565159dd61ccd3a" title="Handler for the end hover event." alt="" coords="240,56,458,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,83,225,79,225,85,192,88"/>
+<area shape="rect" id="Node000005" href="$class_g_u_i_c_p_p_1_1_check_box.html#accb1bf9e64dd30584e640795f644fb20" title="Handler for the release event." alt="" coords="240,107,458,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="192,101,226,105,225,110,192,107"/>
+<area shape="rect" id="Node000006" href="$class_g_u_i_c_p_p_1_1_check_box.html#a1aac3362fcfffeccb75762487a4db598" title="Handler for the start hover event." alt="" coords="253,157,445,200"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="159,114,241,143,262,150,260,155,239,148,158,119"/>
+<area shape="rect" id="Node000004" href="$class_g_u_i_c_p_p_1_1_check_box.html#a43bc69189ca54a14cf9190e08768c619" title="Sets the color of the CheckBox." alt="" coords="506,56,702,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="458,67,491,67,491,72,458,72"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GUICPP::Button" name="GUICPP::Button">
+<area shape="rect" id="Node000001" title="Represents a GUI button with event handling." alt="" coords="7,80,123,107"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_c_p_p_1_1_widget.html" title="Widget class is the base class for all GUI widgets." alt="" coords="5,5,125,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,47,68,80,62,80,62,47"/>
+</map>

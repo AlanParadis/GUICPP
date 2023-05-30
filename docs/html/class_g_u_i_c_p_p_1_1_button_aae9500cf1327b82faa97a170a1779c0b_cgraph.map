@@ -1,0 +1,11 @@
+<map id="GUICPP::Button::HandleEvents" name="GUICPP::Button::HandleEvents">
+<area shape="rect" id="Node000001" title="Handles events for the Button." alt="" coords="5,81,209,108"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_c_p_p_1_1_button.html#aadbd0de442722e378042c08c47f0aba3" title="Called when the Button is clicked." alt="" coords="272,5,443,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,78,256,41,284,34,285,39,257,47,147,83"/>
+<area shape="rect" id="Node000003" href="$class_g_u_i_c_p_p_1_1_button.html#a1783072c21fd196bdf28b8d6ad1117d2" title="Called when the mouse leaves the Button." alt="" coords="259,56,456,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,82,244,78,245,83,209,87"/>
+<area shape="rect" id="Node000004" href="$class_g_u_i_c_p_p_1_1_button.html#a5983d8bb80c7e00d7dd4db7e12b5c99a" title="Called when the Button is released." alt="" coords="260,107,455,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,102,245,106,245,111,209,108"/>
+<area shape="rect" id="Node000005" href="$class_g_u_i_c_p_p_1_1_button.html#aced74bf6bbab5ba7eae631b6ef7e7dad" title="Called when the mouse enters the Button." alt="" coords="257,157,458,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="147,106,257,143,285,151,284,156,256,148,146,111"/>
+</map>

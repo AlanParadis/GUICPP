@@ -1,0 +1,5 @@
+<map id="GUICPP::Slider::OnMouseHold" name="GUICPP::Slider::OnMouseHold">
+<area shape="rect" id="Node000001" title="Called when the mouse is held down on the slider." alt="" coords="5,5,207,32"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_c_p_p_1_1_slider.html#a5d5eb1cd12bf2e4781e8a7e805cdf3d0" title="Computes the value of the slider based on the cursor position." alt="" coords="255,5,459,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,16,240,16,240,21,207,21"/>
+</map>
